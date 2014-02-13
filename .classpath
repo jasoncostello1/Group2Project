@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Workspace/JPA/lib/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/JPA/lib/c3p0-0.9.1.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/JPA/lib/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/JPA/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/JPA/lib/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/JPA/lib/guava-16.0.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/JPA/lib/hibernate3.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/JPA/lib/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/JPA/lib/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/JPA/lib/hibernate-core.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/JPA/lib/hibernate-entitymanager.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/JPA/lib/javassist-3.9.0.GA.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/JPA/lib/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/JPA/lib/mysql-connector-java.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/JPA/lib/poi-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/JPA/lib/poi-ooxml-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/JPA/lib/poi-ooxml-schemas-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/JPA/lib/slf4j-api-1.5.8.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/JPA/lib/slf4j-simple-1.5.8.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/JPA/lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/JPA/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/JPA/lib/el-api.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
